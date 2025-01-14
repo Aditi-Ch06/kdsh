@@ -1,0 +1,153 @@
+Paper ID,Predicted_Label,Conference,Rationale
+P001,Publishable,CVPR,Contains innovative research concepts with clear methodology and results. Focuses on computer vision and pattern recognition topics.
+P002,Publishable,CVPR,Contains innovative research concepts with clear methodology and results. Focuses on computer vision and pattern recognition topics.
+P003,Publishable,EMNLP,Contains innovative research concepts with clear methodology and results. Discusses advancements in natural language processing.
+P004,Publishable,EMNLP,Contains innovative research concepts with clear methodology and results. Discusses advancements in natural language processing.
+P005,Publishable,KDD,Contains innovative research concepts with clear methodology and results. Covers data mining and knowledge discovery methodologies.
+P006,Publishable,KDD,Contains innovative research concepts with clear methodology and results. Covers data mining and knowledge discovery methodologies.
+P007,Publishable,NeurlPS,Contains innovative research concepts with clear methodology and results. Not applicable.
+P008,Publishable,NeurlPS,Contains innovative research concepts with clear methodology and results. Not applicable.
+P009,Publishable,TMLR,Contains innovative research concepts with clear methodology and results. Includes modern machine learning techniques and research.
+P010,Publishable,TMLR,Contains innovative research concepts with clear methodology and results. Includes modern machine learning techniques and research.
+P011,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P012,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P013,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P014,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P015,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P016,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P017,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P018,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P019,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P020,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P021,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P022,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P023,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P024,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P025,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P026,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P027,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P028,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P029,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P030,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P031,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P032,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P033,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P034,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P035,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P036,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P037,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P038,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P039,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P040,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P041,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P042,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P043,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P044,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P045,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P046,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P047,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P048,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P049,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P050,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P051,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P052,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P053,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P054,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P055,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P056,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P057,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P058,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P059,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P060,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P061,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P062,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P063,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P064,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P065,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P066,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P067,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P068,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P069,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P070,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P071,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P072,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P073,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P074,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P075,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P076,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P077,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P078,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P079,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P080,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P081,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P082,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P083,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P084,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P085,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P086,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P087,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P088,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P089,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P090,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P091,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P092,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P093,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P094,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P095,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P096,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P097,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P098,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P099,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P100,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P101,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P102,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P103,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P104,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P105,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P106,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P107,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P108,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P109,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P110,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P111,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P112,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P113,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P114,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P115,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P116,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P117,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P118,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P119,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P120,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P121,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P122,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P123,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P124,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P125,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P126,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P127,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P128,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P129,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P130,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P131,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P132,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P133,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P134,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P135,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P136,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P137,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P138,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P139,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P140,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P141,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P142,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P143,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P144,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P145,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P146,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P147,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P148,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P149,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P150,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
+P151,Non-Publishable,na,Lacks novelty or has unclear objectives and methodology.
+P152,Publishable,Unknown,Contains innovative research concepts with clear methodology and results. Not applicable.
